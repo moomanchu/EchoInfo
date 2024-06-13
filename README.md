@@ -1,5 +1,5 @@
 # EchoInfo
-In loving memory of Echo Buda, the missing/deceased cat of James Buda and the Buda family. To see the full site, please navigate to the file _ \
+In loving memory of Echo Buda, the missing/deceased cat of James Buda and the Buda family. To see the full site, please navigate to the file \
 
 
 For More Info beyond what this GitHub provides please contact: \
