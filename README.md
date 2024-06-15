@@ -1,5 +1,5 @@
 # EchoInfo
-In loving memory of Echo Buda, the missing/deceased cat of James Buda and the Buda family. To see the full site, please navigate to the website [https://moomanchu.github.io/EchoInfo/index.html](https://moomanchu.github.io/EchoInfo/index.html).
+In loving memory of Echo Buda, the missing/deceased cat of James Buda and the Buda family. To see the full site, please navigate to the website [https://moomanchu.github.io/EchoInfo/index.html](https://moomanchu.github.io/EchoInfo/index.html). \
 .\
 .\
 .\
